@@ -160,12 +160,6 @@ Les valeurs b sont extraites des fichiers JSON. En l’absence du fichier ou de 
 
 Les masques sont arrondis après redimensionnement pour rester binaires.
 
-🙏 Remerciements
-Organisation ISLES‑2022 pour la mise à disposition des données
-
-L’équipe nnU‑Net pour l’inspiration architecturale (adaptée ici en 2D)
-
-Communauté TensorFlow / Keras
 
 📄 Licence
 Ce projet est distribué sous licence MIT. Les données ISLES‑2022 restent soumises à leurs conditions d’utilisation propres (accord challenge).
@@ -173,6 +167,3 @@ Ce projet est distribué sous licence MIT. Les données ISLES‑2022 restent sou
 ✍️ Auteur
 Mohamed‑Hédi Bounebi
 GitHub : @Mohamed-Hedi-Bounebi
-
-
-Ce README décrit clairement le projet, son objectif clinique, l’architecture, l’installation, l’utilisation et les résultats. Il est prêt à être copié dans votre dépôt GitHub.
